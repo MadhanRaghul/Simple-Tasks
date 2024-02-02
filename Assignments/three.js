@@ -1,4 +1,4 @@
-//How to check if the given Object is empty or not
+//How to check if a given Object is empty or not
 
 let shop = {
     'Fruit':'Apple',

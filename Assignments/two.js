@@ -1,4 +1,4 @@
-//How to check if the given array is Empty or not
+//How to check if a given array is Empty or not
 
 let Fruits = ['Apple','Orange','Tomato']
 let Vegetables = []
