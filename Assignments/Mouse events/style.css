@@ -1,0 +1,13 @@
+*{
+    align-items: center;
+}
+
+
+body{
+    background-color: aquamarine;
+}
+
+.something{
+    border-radius: 20px;
+    border-color: blueviolet;
+}
