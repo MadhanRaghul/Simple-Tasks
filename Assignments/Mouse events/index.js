@@ -1,3 +1,3 @@
-document.getElementById('something').onclick = function(){
-    document.getElementById('anything').innerHTML = 'Hello Spookie!!'
+document.getElementById('btn1').onclick = function yeah(){
+    document.getElementById('btn1').style.backgroundColor = 'violet'
 }
