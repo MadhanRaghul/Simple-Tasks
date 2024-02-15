@@ -25,6 +25,7 @@ h1{
     display: flex;
     justify-content: center;
     flex-direction: column;
+    text-align: center;
 
     transition-property: all;
     transition-duration: 1s;
@@ -67,4 +68,10 @@ button:hover{
     background-color: rgb(255, 132, 187);
 }
 
-
+.gif{
+    background-image: url(./yay.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: none;
+}
